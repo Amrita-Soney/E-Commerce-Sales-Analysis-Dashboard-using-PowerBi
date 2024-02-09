@@ -4,6 +4,9 @@
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of e-commerce sales data, offering insights into various aspects of sales performance, customer behavior, and more. With interactive visualizations and intuitive design, this dashboard aims to empower stakeholders to make informed decisions and drive business growth.
 
+# Snapshot of Dashboard (Power BI Desktop)
+
+![dashboard_snapo](https://github.com/Amrita-Soney/E-Commerce-Sales-Analysis-Dashboard-using-PowerBi/blob/main/POWERBI%20DASHBOARD.png?raw=true)
 
 ### Steps followed 
 
